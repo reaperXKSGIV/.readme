@@ -1,7 +1,7 @@
-## Hello, I am MLRTAKEN.  
-You can text me on Discord: **@mlrtaken**
+## Hello, I am A$AP Reaper Aka EHXKSGXREAPERXKATIIV.  
+You can text me on Discord: **@ollie_reaper*
 
-My favorite programming languages are:
+My Programming languages are:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
@@ -9,6 +9,6 @@ My favorite programming languages are:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
 
-Kinda inactive on GitHub but if you have any questions or suggestions on any of my projects, text me on Discord.
+Active on GitHub making loads of scripts dm for a private script $20 for own script
 
-I'm currently focusing mainly on Game Development, but I also make exploit scripts for Roblox.
+I'm currently Making roblox game but mostly on roblox scripts and working on python etc
