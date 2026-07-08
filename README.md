@@ -11,7 +11,3 @@ My Programming languages are:
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" width="50"/>
   <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" width="50"/>
 </p>
-
-Active on GitHub making loads of scripts dm for a private script $20 for own script
-
-I'm currently Making roblox game but mostly on roblox scripts and working on python etc
